@@ -49,11 +49,6 @@ plt.show()
 ```
 ### Output:
 
-<img width="818" height="737" alt="image" src="https://github.com/user-attachments/assets/ef4f9166-f550-4975-aa2b-1eda6bacd712" />
-
-<img width="595" height="771" alt="image" src="https://github.com/user-attachments/assets/a231a58f-3ed1-4db9-9549-0f4b68e5ef0e" />
-
-<img width="675" height="770" alt="image" src="https://github.com/user-attachments/assets/71ba9df1-fd10-4b5b-9015-8d439ce7a6da" />
 
 <img width="976" height="729" alt="image" src="https://github.com/user-attachments/assets/8062c93a-6021-489d-8408-2f809db69b13" />
 
@@ -92,13 +87,6 @@ plt.show()
 
 ```
 ### Output:
-
-
-<img width="760" height="744" alt="image" src="https://github.com/user-attachments/assets/45757a5d-c91f-4420-9b70-c720cb4390a2" />
-
-
-<img width="1013" height="726" alt="image" src="https://github.com/user-attachments/assets/59bad55a-6210-47ef-9b40-63f7fb4382e1" />
-
 
 
 <img width="720" height="664" alt="image" src="https://github.com/user-attachments/assets/bbaae282-880b-410b-8ac3-2f04a781878d" />
