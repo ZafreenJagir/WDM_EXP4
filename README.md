@@ -56,6 +56,9 @@ plt.show()
 
 <img width="752" height="732" alt="image" src="https://github.com/user-attachments/assets/e304aad2-4758-4ad8-a86b-42c7084f9cca" />
 
+<img width="956" height="701" alt="image" src="https://github.com/user-attachments/assets/5828518c-5c0f-4ef6-a89b-e88a59f79b2b" />
+
+
 ### Program2:
 
 ```
